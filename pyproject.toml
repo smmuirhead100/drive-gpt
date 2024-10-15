@@ -7,6 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+openai = "^1.51.2"
+pydantic = "^2.9.2"
+pillow = "^10.4.0"
 
 
 [build-system]
